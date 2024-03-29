@@ -1,11 +1,11 @@
 #include <CTBot.h>
 
 CTBot myBot;
-String ssid = "FAIZ";
-String pass = "gajahrenang";
-String Token = "6758670115:AAEB5jTFzd0mSRLwpvOrT81tqq0v7ncGwgg";
+String ssid = " ";
+String pass = " ";
+String Token = " ";
 
-int userIDs[] = {1484126714, 1397805605, 5958357649 }; 
+int userIDs[] = { ,  ,  }; 
 
 void setup() {
   Serial.begin(115200);
